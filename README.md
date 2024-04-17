@@ -1,5 +1,5 @@
 # XoXGame
-open index.html file and play
+[demo](https://berkayozgun.dev/XoXGame/)
 
 ![xwin](./img/xwin.png)
 ![draw](./img/draw.png)
